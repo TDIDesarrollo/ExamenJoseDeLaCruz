@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examen.dataaccess\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|solutionrelative:examen.dataaccess\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examen.dataaccess\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|solutionrelative:examen.dataaccess\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Examen.DataAccess\\FileLogger.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\FileLogger.cs",
+              "RelativeToolTip": "Examen.DataAccess\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:11:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\Program.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\Program.cs",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:08:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\PostsController.cs",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\PostsController.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\PostsController.cs",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:08:11.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\ILogger.cs",
+              "RelativeDocumentMoniker": "Examen.DataAccess\\ILogger.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\ILogger.cs",
+              "RelativeToolTip": "Examen.DataAccess\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:06:58.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
