@@ -48,7 +48,7 @@ El frontend consumirá el endpoint `https://localhost:7206/api/posts`.
 
 ## 🏗️ Arquitectura y Buenas Prácticas
 
-[cite_start]La solución fue diseñada siguiendo los principios de **Arquitectura de N-Capas** (separación de responsabilidades) y **Mantenibilidad**[cite: 11].
+La solución fue diseñada siguiendo los principios de **Arquitectura de N-Capas** (separación de responsabilidades) y **Mantenibilidad**[cite: 11].
 
 ### 1. Backend: Organización en Capas (.NET Core)
 
