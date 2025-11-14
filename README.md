@@ -1,6 +1,6 @@
 # 💻 Prueba Técnica para Desarrollador - Jose de la Cruz
 
-[cite_start]**Objetivo:** Desarrollar una aplicación web que consuma datos desde una API pública (JsonPlaceHolder) y los presente en una interfaz interactiva, implementando buenas prácticas de desarrollo, manejo de errores y persistencia de información[cite: 5].
+**Objetivo:** Desarrollar una aplicación web que consuma datos desde una API pública (JsonPlaceHolder) y los presente en una interfaz interactiva, implementando buenas prácticas de desarrollo, manejo de errores y persistencia de información[cite: 5].
 
 ---
 
@@ -8,11 +8,11 @@
 
 | Componente | Tecnología | Versión | Propósito / Requisito Cumplido |
 | :--- | :--- | :--- | :--- |
-| **Backend (API)** | ASP.NET Core Web API | [cite_start].NET 6.0 o superior [cite: 10] | [cite_start]Lógica de negocio, consumo de API externa, manejo de errores[cite: 5]. |
-| **Frontend (UI)** | React | Vite | [cite_start]Interfaz de usuario interactiva, búsqueda, y filtrado[cite: 5]. |
-| **Estilos** | Tailwind CSS (v3.x) | npm | [cite_start]Diseño agradable y experiencia de usuario intuitiva[cite: 14]. |
-| **Persistencia** | Logger Personalizado | .NET Class Library | [cite_start]Persistencia de errores de comunicación[cite: 23]. |
-| **API Externa** | JsonPlaceHolder | REST | [cite_start]Fuente de datos para el consumo de API[cite: 16]. |
+| **Backend (API)** | ASP.NET Core Web API | [cite_start].NET 6.0 o superior [cite: 10] | Lógica de negocio, consumo de API externa, manejo de errores. |
+| **Frontend (UI)** | React | Vite | Interfaz de usuario interactiva, búsqueda, y filtrado. |
+| **Estilos** | Tailwind CSS (v3.x) | npm | Diseño agradable y experiencia de usuario intuitiva. |
+| **Persistencia** | Logger Personalizado | .NET Class Library | Persistencia de errores de comunicación. |
+| **API Externa** | JsonPlaceHolder | REST | Fuente de datos para el consumo de API[cite: 16]. |
 
 ---
 
