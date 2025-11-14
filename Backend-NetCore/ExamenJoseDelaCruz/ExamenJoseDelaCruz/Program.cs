@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<ILogger, FileLogger>();
+builder.Services.AddSingleton<Examen.DataAccess.ILogger, FileLogger>();
 builder.Services.AddHttpClient<IJsonPlaceholderService, JsonPlaceholderService>(client =>
 {
     client.BaseAddress = new Uri("https://jsonplaceholder.typicode.com/");

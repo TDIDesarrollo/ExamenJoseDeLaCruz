@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\examenjosedelacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\examenjosedelacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\Program.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\Program.cs",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:06:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\PostsController.cs",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\PostsController.cs",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\PostsController.cs",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:06:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamenJoseDelaCruz.http",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-14T01:58:01.343Z",
+              "EditorCaption": ""
             }
           ]
         },

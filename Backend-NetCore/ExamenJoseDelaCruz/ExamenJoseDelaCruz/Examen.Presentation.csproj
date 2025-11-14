@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Examen.Models\Examen.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>

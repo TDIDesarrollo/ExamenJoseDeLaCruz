@@ -1,0 +1,12 @@
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\bin\Debug\net8.0\Examen.DataAccess.deps.json
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\bin\Debug\net8.0\Examen.DataAccess.dll
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\bin\Debug\net8.0\Examen.DataAccess.pdb
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.AssemblyInfoInputs.cache
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.AssemblyInfo.cs
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.sourcelink.json
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.dll
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\refint\Examen.DataAccess.dll
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\Examen.DataAccess.pdb
+D:\jjdel\Escritorio\Practicas programacion\Prueba Tecnica TDI SA\Backend-NetCore\ExamenJoseDelaCruz\Examen.DataAccess\obj\Debug\net8.0\ref\Examen.DataAccess.dll

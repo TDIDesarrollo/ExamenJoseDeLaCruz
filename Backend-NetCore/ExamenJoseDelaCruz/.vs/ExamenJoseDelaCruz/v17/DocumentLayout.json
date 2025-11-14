@@ -11,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examen.dataaccess\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|solutionrelative:examen.dataaccess\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examen.dataaccess\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD27A558-34ED-41C3-B188-8CF81C5AE0AB}|Examen.DataAccess\\Examen.DataAccess.csproj|solutionrelative:examen.dataaccess\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|d:\\jjdel\\escritorio\\practicas programacion\\prueba tecnica tdi sa\\backend-netcore\\examenjosedelacruz\\examenjosedelacruz\\examenjosedelacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D32D43EE-289F-46C8-B220-6ADD04DA2526}|ExamenJoseDelaCruz\\Examen.Presentation.csproj|solutionrelative:examenjosedelacruz\\examenjosedelacruz.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileLogger.cs",
-              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\FileLogger.cs",
-              "RelativeDocumentMoniker": "Examen.DataAccess\\FileLogger.cs",
-              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\FileLogger.cs",
-              "RelativeToolTip": "Examen.DataAccess\\FileLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T01:11:54.39Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,9 +36,9 @@
               "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\Program.cs",
               "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\Program.cs",
               "RelativeToolTip": "ExamenJoseDelaCruz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T01:08:16.119Z",
+              "WhenOpened": "2025-11-14T02:06:30.418Z",
               "EditorCaption": ""
             },
             {
@@ -66,22 +49,22 @@
               "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\PostsController.cs",
               "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\PostsController.cs",
               "RelativeToolTip": "ExamenJoseDelaCruz\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T01:08:11.542Z",
+              "WhenOpened": "2025-11-14T02:06:27.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILogger.cs",
-              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\ILogger.cs",
-              "RelativeDocumentMoniker": "Examen.DataAccess\\ILogger.cs",
-              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\Examen.DataAccess\\ILogger.cs",
-              "RelativeToolTip": "Examen.DataAccess\\ILogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T01:06:58.199Z",
+              "DocumentIndex": 2,
+              "Title": "ExamenJoseDelaCruz.http",
+              "DocumentMoniker": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "RelativeDocumentMoniker": "ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "ToolTip": "D:\\jjdel\\Escritorio\\Practicas programacion\\Prueba Tecnica TDI SA\\Backend-NetCore\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "RelativeToolTip": "ExamenJoseDelaCruz\\ExamenJoseDelaCruz.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-14T01:58:01.343Z",
               "EditorCaption": ""
             }
           ]
