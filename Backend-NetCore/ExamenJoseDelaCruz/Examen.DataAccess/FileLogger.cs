@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examen.DataAccess
 {
-    internal class FileLogger : ILogger
+    public class FileLogger : ILogger
     {
         private readonly string _logFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "application.log");
         public void Log(string message, string level = "INFO")
